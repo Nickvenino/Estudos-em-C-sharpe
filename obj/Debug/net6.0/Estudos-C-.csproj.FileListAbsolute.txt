@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub novo\Estudos-C-\bin\Debug\net6.0\Estudos-C-.exe
+C:\Users\User\Documents\GitHub novo\Estudos-C-\bin\Debug\net6.0\Estudos-C-.deps.json
+C:\Users\User\Documents\GitHub novo\Estudos-C-\bin\Debug\net6.0\Estudos-C-.runtimeconfig.json
+C:\Users\User\Documents\GitHub novo\Estudos-C-\bin\Debug\net6.0\Estudos-C-.dll
+C:\Users\User\Documents\GitHub novo\Estudos-C-\bin\Debug\net6.0\Estudos-C-.pdb
+C:\Users\User\Documents\GitHub novo\Estudos-C-\obj\Debug\net6.0\Estudos-C-.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub novo\Estudos-C-\obj\Debug\net6.0\Estudos-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub novo\Estudos-C-\obj\Debug\net6.0\Estudos-C-.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub novo\Estudos-C-\obj\Debug\net6.0\Estudos-C-.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub novo\Estudos-C-\obj\Debug\net6.0\Estudos-C-.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub novo\Estudos-C-\obj\Debug\net6.0\Estudos-C-.dll
+C:\Users\User\Documents\GitHub novo\Estudos-C-\obj\Debug\net6.0\refint\Estudos-C-.dll
+C:\Users\User\Documents\GitHub novo\Estudos-C-\obj\Debug\net6.0\Estudos-C-.pdb
+C:\Users\User\Documents\GitHub novo\Estudos-C-\obj\Debug\net6.0\Estudos-C-.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub novo\Estudos-C-\obj\Debug\net6.0\ref\Estudos-C-.dll
